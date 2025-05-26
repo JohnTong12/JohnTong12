@@ -1,7 +1,8 @@
 ## Hi there, Am John Tong 👋
 
 <!--
-**JohnTong12/JohnTong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Am passionate about statistics,Machine Learning ,DeepLearning and Natural language proprecessing and Generative AI
+As computers get faster and better at handling huge amounts of data, Artificial Intelligence is improving like never before.
 
 Here are some ideas to get you started:
 
