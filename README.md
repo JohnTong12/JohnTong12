@@ -1,8 +1,9 @@
 ## Welcome !!,my Name is John Tong and i am a Data-Scientist 👋
 
 
-* Am passionate about Statistics,Machine Learning ,DeepLearning , Natural language proprecessing and Generative AI.
-* As computers get faster and better at handling huge amounts of data, Artificial Intelligence is improving like never before.
+* I specialize in developing python frameworks for Machine learning and Deep learning projects. My Journey as Data Scientist has equipped me with deep expertise in exploratory data analysis, experimentations, statistics, classification, NLP, regression and Deep neural networks.
+
+
 ---
 ## 👨‍💻 About Me
 🔹 AI & Machine-Learning Enthusiast | Self-Learner | Problem Solver
