@@ -1,7 +1,7 @@
 ## Welcome !!,my Name is John Tong and i am a Data-Scientist 👋
 
 
-* I specialize in developing python frameworks for Machine learning and Deep learning projects. My Journey as Data Scientist has equipped me with deep expertise in exploratory data analysis, experimentations, statistics, classification, NLP, regression and Deep neural networks.
+* I specialize in developing python frameworks for Machine learning and Deep learning projects. My Journey as Data Scientist has equipped me with deep expertise in exploratory data analysis, experimentations, statistical testing, classification, NLP, regression and Deep neural networks.
 
 
 ---
