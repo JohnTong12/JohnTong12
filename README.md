@@ -1,71 +1,77 @@
-## Welcome !!,my Name is John Tong and i am a Data-Scientist 👋
+# 👋 Hi, I'm John Tong  
 
+I’m a **Data Scientist** passionate about transforming data into meaningful insights and building AI solutions that solve real-world problems.  
 
-* I specialize in developing python frameworks for Machine learning and Deep learning projects. My Journey as Data Scientist has equipped me with deep expertise in exploratory data analysis, experimentations, statistical testing, classification, NLP, regression and Deep neural networks.
-
+I specialize in developing **Python frameworks for Machine Learning and Deep Learning** projects, with expertise spanning exploratory data analysis, statistical testing, NLP, computer vision, and advanced neural networks.  
 
 ---
-## 👨‍💻 Areas of Expertise
-Area of Expertise:
-• Mathematics & Statistics
-•	Python 3.X (Numpy, Pandas, scikit-learn, Keras)
-•	Jupyter Notebooks
-• Hypothesis Testing(Parametric Tests-T-tests,Anova,Ancova. Non-Parametric Test-kruskal Wallis tests)
-•	Machine Learning (SVM, Random Forest, Gradient Boosting, Linear Regression, Logistic 
-       Regression)
-•	Deep Learning (MLP, CNN, RNN, Tensorflow, Pytorch,LSTM,GRU)
-•	Natural Language Processing (NLTK)
-•	Data Mining
-•	Computer Vision (OpenCV,Transfer learning)
-•	Data Analysis & Visualizations (matplotlib, seaborn, Microsoft Excel,Looker Studio)
-•	Data Extraction and Scraping (Beautiful Soup)
 
---- 
-## 📌 What Sets Me Apart
+## 👨‍💻 Areas of Expertise  
 
-✔️ Learning with Purpose  – Focused on applying AI through the lens of CRISP-DM, aiming to solve problems by understanding their root causes.
+- **Programming & Tools**  
+  • Python (NumPy, Pandas, scikit-learn, Keras, TensorFlow, PyTorch)  
+  • Jupyter Notebooks, VS Code, Anaconda  
 
-✔️ End-to-End AI Workflow – From Data Preprocessing to Model Deployment, covering the full machine learning lifecycle.
+- **Machine Learning**  
+  • Classification & Regression (Linear, Logistic, Random Forest, Gradient Boosting, SVM)  
+  • Feature Engineering & Model Optimization  
 
-✔️ Research-Oriented – Focused on applying research to solve real-world problems in AI and data science.
+- **Deep Learning**  
+  • MLP, CNN, RNN, LSTM, GRU  
+  • Transfer Learning & Computer Vision (OpenCV)  
 
-✔️ Lifelong Learner – Always growing through workshops, peer collaborations, and real-world practice.
+- **Statistics & Experimental Design**  
+  • Parametric Tests: T-tests, ANOVA, ANCOVA  
+  • Non-Parametric Tests: Kruskal–Wallis  
 
+- **NLP & Text Analytics**  
+  • Natural Language Processing (NLTK)  
+  • Text classification & preprocessing  
 
-## 🌱  Current Focus Areas
+- **Data Analysis & Visualization**  
+  • Matplotlib, Seaborn, Excel, Looker Studio  
 
-🔹 Advancing AI Research & Enhancing Model Interpretability
+- **Data Handling**  
+  • Data Mining & Web Scraping (BeautifulSoup)  
 
-🔹 Optimizing Machine Learning Models for Production Deployment
+---
 
-🔹 Statistics, Experimental Design, and Hypothesis Testing
+## 📌 What Sets Me Apart  
 
-🔹Time Series Analysis and Econometrics
+✔️ **Purpose-Driven** – Applying AI with CRISP-DM to uncover root causes and deliver actionable solutions.  
+✔️ **End-to-End Workflow** – From preprocessing to deployment, covering the full machine learning lifecycle.  
+✔️ **Research-Oriented** – Bridging academic insights with practical AI applications.  
+✔️ **Lifelong Learner** – Constantly growing through workshops, collaborations, and real-world practice.  
 
---- 
-### 🛠 Skills
+---
+
+## 🌱 Current Focus Areas  
+
+- 📊 Advancing AI Research & Model Interpretability  
+- ⚡ Optimizing ML Models for Production Deployment  
+- 🧪 Statistics, Experimental Design & Hypothesis Testing  
+- 📈 Time Series Analysis & Econometrics  
+
+---
+
+## 🛠 Skills  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-6C3483?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>  
 
-## 🤝 Let's Connect!
+---
 
-I’m always open to learning, collaborating, and making a meaningful impact in the data science community and beyond.  
-Feel free to reach out—let's build something impactful together!
+## 🤝 Let’s Connect  
 
-
-
-
-
-
-
-
-
-
-
-
-
+I’m always open to **collaborating on impactful AI and data science projects**.  
+Let’s connect and build something meaningful together! 🚀  
