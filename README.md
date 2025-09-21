@@ -9,7 +9,7 @@ I specialize in developing **Python frameworks for Machine Learning and Deep Lea
 ## 👨‍💻 Areas of Expertise  
 
 - **Programming & Tools**  
-  • Python (NumPy, Pandas, scikit-learn, Keras, TensorFlow, PyTorch)  
+  • Python (NumPy, Pandas, scikit-learn, Keras, TensorFlow)  
   • Jupyter Notebooks, VS Code, Anaconda  
 
 - **Machine Learning**  
@@ -61,13 +61,13 @@ I specialize in developing **Python frameworks for Machine Learning and Deep Lea
   <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-6C3483?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>  
+
 
 ---
 
