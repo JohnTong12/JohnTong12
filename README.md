@@ -5,20 +5,20 @@
 
 
 ---
-## 👨‍💻 About Me
-🔹 AI & Machine-Learning Enthusiast | Self-Learner | Problem Solver
-
-🔹 Experimentations | Statistics | Hypothesis Testing
-
-🔹 Econometrics
-
-🔹 TimeSeries Forecasting
-
-🔹 Deep Learning 
-
-🔹 Model Deployment
-
-🔹 Natural Language Preprocessing
+## 👨‍💻 Areas of Expertise
+Area of Expertise:
+• Mathematics & Statistics
+•	Python 3.X (Numpy, Pandas, scikit-learn, Keras)
+•	Jupyter Notebooks
+• Hypothesis Testing(Parametric Tests-T-tests,Anova,Ancova. Non-Parametric Test-kruskal Wallis tests)
+•	Machine Learning (SVM, Random Forest, Gradient Boosting, Linear Regression, Logistic 
+       Regression)
+•	Deep Learning (MLP, CNN, RNN, Tensorflow, Pytorch,LSTM,GRU)
+•	Natural Language Processing (NLTK)
+•	Data Mining
+•	Computer Vision (OpenCV,Transfer learning)
+•	Data Analysis & Visualizations (matplotlib, seaborn, Microsoft Excel,Looker Studio)
+•	Data Extraction and Scraping (Beautiful Soup)
 
 --- 
 ## 📌 What Sets Me Apart
