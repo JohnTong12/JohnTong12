@@ -11,7 +11,9 @@ And Power BI is how I bring it all together. I just love taking messy data and t
 ## 📌 What Sets Me Apart  
 
 ✔️ **End-to-End Workflow** – From preprocessing to deployment. 
+
 ✔️ **Research-Oriented** – Always Learning and moving .
+
 ✔️ **Lifelong Learner** – Constantly growing through workshops, collaborations, and real-world practice.  
 
 ---
