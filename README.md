@@ -3,6 +3,7 @@
 I truly believe that just showing up every day, making small improvements, and honestly wanting to get better is what separates people who grow and from those who stay stagnant — and that’s exactly what keeps me hooked on data science.
 
 Python is my main tool. I build predictive models, but what I really care about is making sure the results actually help people make better decisions — not just impressive numbers on a screen.
+
 And Power BI is how I bring it all together. I just love taking messy data and turning it into something anyone can look at and immediately understand.
 
 ---
