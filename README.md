@@ -1,15 +1,15 @@
-# 👋 Hi, I'm John Tong  
+# 👋 Hey Welcome,
 
-I’m a **Data Scientist** passionate about transforming data into meaningful insights and building AI solutions that solve real-world problems.  
+I believe showing up every day, making small adjustments, and genuinely wanting to improve is what separates people who grow from people who stall — and that's what keeps me hooked on data science.
 
-I specialize in developing **Python frameworks for Machine Learning and Deep Learning** projects, with expertise spanning exploratory data analysis, statistical testing, NLP, computer vision, time series forecasting, and advanced neural networks.  
+Python is my main tool. I build predictive models, but what I really care about is making sure the results actually help people make better decisions — not just impressive numbers on a screen.
+And Power BI is how I bring it all together. I just love taking messy data and turning it into something anyone can look at and immediately understand.
 
 ---
 
 
 ## 📌 What Sets Me Apart  
 
-✔️ **Purpose-Driven** – Applying AI with CRISP-DM to uncover root causes and deliver actionable solutions.  
 ✔️ **End-to-End Workflow** – From preprocessing to deployment, covering the full machine learning lifecycle.  
 ✔️ **Research-Oriented** – Bridging academic insights with practical AI applications.  
 ✔️ **Lifelong Learner** – Constantly growing through workshops, collaborations, and real-world practice.  
@@ -18,10 +18,10 @@ I specialize in developing **Python frameworks for Machine Learning and Deep Lea
 
 ## 🌱 Current Focus Areas  
 
-- 📊 Advancing AI Research & Model Interpretability  
-- ⚡ Optimizing ML Models for Production Deployment (Streamlit, APIs, Cloud)  
+- 📊 Model Interpretability  
+- ⚡ Optimizing ML Models for Production Deployment   
 - 🧪 Statistics, Experimental Design & Hypothesis Testing  
-- 📈 Time Series Analysis & Econometrics (ETS, ARIMA, Prophet, Neural Prophet, LSTMs, GRUs)  
+- 📈 Time Series Analysis & Econometrics 
 
 ---
 
