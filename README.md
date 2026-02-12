@@ -10,8 +10,8 @@ And Power BI is how I bring it all together. I just love taking messy data and t
 
 ## 📌 What Sets Me Apart  
 
-✔️ **End-to-End Workflow** – From preprocessing to deployment, covering the full machine learning lifecycle.  
-✔️ **Research-Oriented** – Bridging academic insights with practical AI applications.  
+✔️ **End-to-End Workflow** – From preprocessing to deployment. 
+✔️ **Research-Oriented** – Always Learning and moving .
 ✔️ **Lifelong Learner** – Constantly growing through workshops, collaborations, and real-world practice.  
 
 ---
