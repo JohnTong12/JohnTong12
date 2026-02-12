@@ -6,44 +6,6 @@ I specialize in developing **Python frameworks for Machine Learning and Deep Lea
 
 ---
 
-## 👨‍💻 Areas of Expertise  
-
-- **Programming & Tools**  
-  • Python (NumPy, Pandas, scikit-learn, Keras, TensorFlow)  
-  • Jupyter Notebooks, VS Code, Anaconda  
-
-- **Machine Learning**  
-  • Classification & Regression (Linear, Logistic, Random Forest, Gradient Boosting, SVM)  
-  • Feature Engineering & Model Optimization  
-
-- **Deep Learning**  
-  • MLP, CNN, RNN, LSTM, GRU  
-  • Transfer Learning & Computer Vision (OpenCV)  
-
-- **Time Series Forecasting**  
-  • Traditional Models: ETS, ARIMA, Exponential Smoothing  
-  • Advanced Models: Prophet, Neural Prophet  
-  • Deep Learning for Sequences: LSTM, RNN, GRU  
-
-- **Statistics & Experimental Design**  
-  • Parametric Tests: T-tests, ANOVA, ANCOVA  
-  • Non-Parametric Tests: Kruskal–Wallis  
-
-- **NLP & Text Analytics**  
-  • Natural Language Processing (NLTK)  
-  • Text classification & preprocessing  
-
-- **Data Analysis & Visualization**  
-  • Matplotlib, Seaborn, Excel, Looker Studio  
-
-- **Data Handling**  
-  • Data Mining & Web Scraping (BeautifulSoup)  
-
-- **Model Deployment**  
-  • Deploying ML/DL Models with Streamlit  
-  • Interactive Dashboards & Web Apps for AI Solutions  
-
----
 
 ## 📌 What Sets Me Apart  
 
