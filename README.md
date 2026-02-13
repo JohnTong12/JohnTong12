@@ -2,7 +2,7 @@
 
 ---
                                                          
-#                          Data-Sceintits | Machine Learning | Deep-learning | Statiscal Analysis | Powerr BI
+**                         Data-Sceintits | Machine Learning |Deep-learning |Statiscal Analysis |Powerr BI
 
 ---
 
