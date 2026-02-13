@@ -2,7 +2,7 @@
 
 ---
                                                          
-  #     Data-Sceintits | Machine Learning | Deep-learning |Statiscal Analysis | Powerr BI
+  #     DataScientist| Machine Learning | Deep-learning |Statiscal Analysis | Powerr BI
 
 ---
 
