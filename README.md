@@ -8,7 +8,7 @@
 
 ✔️ **End-to-End Execution** – From data preprocessing and exploratory analysis to model deployment and performance monitoring.  
 
-✔️ **Research-Driven Mindset** – I don’t just build models — I focus on understanding the theory behind models and optimizing them with intention.  
+✔️ **Research-Driven Mindset** – I focus on understanding the theory behind models and optimizing them with intention.  
 
 ✔️ **Continuous Growth** – Committed to daily improvement through hands-on projects, collaboration, and applied learning.  
 
