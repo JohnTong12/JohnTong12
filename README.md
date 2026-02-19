@@ -1,4 +1,4 @@
-# 👋 Hey, I’m John Tong  
+# 👋 Hey, I’m John
 
 I'm a Data Scientist , with passion to uncover patterns and processes , solve complex problems and drive insights  
 
