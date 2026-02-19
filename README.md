@@ -1,6 +1,6 @@
 # 👋 Hey, I’m John Tong  
 
-I'm a Data Scientist with passion to uncover patterns and processes, solve complex problems and drive insights  
+I'm a Data Scientist , with passion to uncover patterns and processes , solve complex problems and drive insights  
 
 ---
 
@@ -14,14 +14,6 @@ I'm a Data Scientist with passion to uncover patterns and processes, solve compl
 
 ---
 
-### 💻 Languages & Core Tools  
+## Check out my projects.
 
-- Python  
-- Anaconda  
-
----
-
-## 🤝 Let’s Connect  
-
-Check out my projects  
 
